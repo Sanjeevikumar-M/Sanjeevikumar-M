@@ -88,8 +88,6 @@ class Sanjeevikumar:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanjeevikumar-M/Sanjeevikumar-M/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> ⚙️ **To activate the PAC-MAN animation:** Go to your repo → **Actions** tab → **New workflow** → paste the YAML below → save & run it once.
-
 ---
 
 ## 🤝 Connect With Me
