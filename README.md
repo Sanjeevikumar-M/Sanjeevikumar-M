@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Sanjeevikumar M 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Robotics+%26+Autonomous+Systems+Builder+%F0%9F%9A%97;IoT+Systems+%26+Embedded+Engineer+%F0%9F%8C%90;Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%26+Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Robotics+%26+Autonomous+Systems+(ROS2+%7C+CARLA);Computer+Vision+%7C+IoT+%7C+Embedded+Systems;Full+Stack+%7C+Open+Source+%7C+Hackathons" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,11 +11,11 @@
   <a href="mailto:sanjeevikumar2225@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Sanjeevikumar-M">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://sanjeevikumar-m.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sanjeevikumar-M">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sanjeevikumar-M&label=Profile+Views&color=00ffff&style=for-the-badge" />
 </p>
@@ -35,32 +35,34 @@ class Sanjeevikumar:
     interests  = [
         "Artificial Intelligence & Machine Learning",
         "Robotics & Autonomous Systems (ROS2, CARLA)",
+        "Computer Vision (YOLO, OpenCV)",
         "IoT & Embedded Systems",
         "Full Stack Development",
-        "Computer Vision (YOLO)",
         "Competitive Programming"
     ]
 
     currently  = "Building intelligent systems that bridge hardware & software"
 
-    open_to    = [
-        "Internships",
-        "Collaborations",
-        "Open Source",
-        "Hackathons"
-    ]
+    open_to    = ["Internships", "Collaborations", "Open Source", "Hackathons"]
 ```
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech AI & Data Science** — 3rd Year, Coimbatore
-- 🤖 Passionate about **Robotics, Autonomous Vehicles & AI**
-- 🔭 Currently working on **IoT + AI Integrated Systems** and **ROS2 / CARLA Simulations**
-- 🌱 Exploring **Advanced ML, Computer Vision (YOLO), Full Stack & Cloud-IoT**
-- ⚡ Strong interest in **Embedded Systems, Automation & Smart Applications**
-- 🏆 Active **Competitive Programmer** and Open Source contributor
+I'm a 3rd-year B.Tech AI & Data Science student from Coimbatore, passionate about building systems that sit at the intersection of intelligence and hardware. I work on autonomous vehicles using **ROS2 and CARLA**, design IoT pipelines with **ESP32 and Raspberry Pi**, and apply **computer vision** with YOLO to real-world problems. I'm an active competitive programmer and love contributing to open-source and hackathons.
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🚗 **Autonomous Vehicle Simulation** | Multi-vehicle sim with V2V communication & obstacle avoidance | ROS2, CARLA, Python |
+| 👁️ **Computer Vision Pipeline** | Real-time object detection for surveillance & smart environments | YOLO, OpenCV, Python |
+| 🌦️ **IoT Weather Monitor** | Environmental sensing with cloud integration & analytics | ESP32, DHT22, MQ-2 |
+| 🎓 **Student Management System** | Full CRUD academic records system with OOP design | Java |
+| 🌐 **Portfolio Website** | Responsive dark-themed portfolio deployed on GitHub Pages | HTML, CSS, JS |
 
 ---
 
@@ -106,23 +108,13 @@ class Sanjeevikumar:
 
 ---
 
-## 📌 Featured Projects
+## 🔭 What I'm Building Toward
 
-### 🚗 Autonomous Vehicle Simulation (ROS2 + CARLA)
-> Multi-vehicle simulation with V2V communication, obstacle avoidance, and autonomous driving logic built on **ROS2** and the **CARLA Simulator**. Focused on smart transport and real-world applicability.
-
-### 👁️ Computer Vision with YOLO
-> Object detection and real-time recognition pipeline using **YOLO** and **OpenCV**. Applied to intelligent surveillance and smart environment use cases.
-
-### 🌦️ IoT Weather Monitoring System
-> Real-time environmental monitoring using **ESP32, DHT22 & MQ-2 sensors** with cloud integration for smart analytics and scalable data pipelines.
-
-### 🎓 Student Management System
-> Robust academic records system built in **Java** with full CRUD operations, OOP design principles, and exception handling.
-
-### 🌐 Personal Portfolio Website
-> Modern dark-themed portfolio built with **HTML, CSS & JavaScript** — responsive, UI/UX focused, and deployed on GitHub Pages.
-> 🔗 [sanjeevikumar-m.github.io/Portfolio](https://sanjeevikumar-m.github.io/Portfolio/)
+- 🤖 Mastering Deep Learning, CNNs & advanced Computer Vision (YOLO v9+)
+- 🚗 Pushing further into ROS2, CARLA & real-world autonomous navigation
+- 🌐 Building production-grade Full Stack applications
+- ☁️ Scaling IoT systems with Cloud & Edge computing
+- 🌍 Contributing meaningfully to open-source Robotics & AI projects
 
 ---
 
@@ -139,7 +131,7 @@ class Sanjeevikumar:
 
 ---
 
-## 🐍 PAC-MAN Eating My Contributions
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -152,23 +144,6 @@ class Sanjeevikumar:
 
 ---
 
-## 📈 Currently Learning
-
-- 🤖 Advanced AI, Deep Learning & Computer Vision (YOLO, CNNs)
-- 🚗 Robotics: ROS2, CARLA Simulator & Autonomous Navigation
-- 🌐 Full Stack Development (Frontend + Backend Integration)
-- ☁️ Cloud Integration with IoT
-
----
-
-## 🎯 Future Goals
-
-- 🚀 Build AI-powered real-world autonomous systems
-- 🌍 Contribute to open-source Robotics & AI projects
-- 🧠 Develop intelligent automation solutions at scale
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -178,11 +153,11 @@ class Sanjeevikumar:
   <a href="mailto:sanjeevikumar2225@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Sanjeevikumar-M">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://sanjeevikumar-m.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sanjeevikumar-M">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
