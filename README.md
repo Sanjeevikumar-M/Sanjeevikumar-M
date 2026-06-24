@@ -1,168 +1,150 @@
-<h1 align="center">Hey there, I'm Sanjeevikumar M 👋</h1>
+<!--
+  GitHub Profile README for github.com/Sanjeevikumar-M
+  This file must live as README.md in a public repo named exactly Sanjeevikumar-M
+  (i.e. github.com/Sanjeevikumar-M/Sanjeevikumar-M) for GitHub to render it on the profile page.
+-->
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:8a0a1f&height=230&section=header&text=SANJEEVIKUMAR%20M&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Systems%20Builder&descAlignY=56&descSize=16&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=640&lines=Building+Intelligent+Systems+with+AI;Bridging+Software+%26+Embedded+Hardware;Designing+Scalable+IoT+Architectures)](https://github.com/Sanjeevikumar-M)
+
+![B.Tech AI & Data Science](https://img.shields.io/badge/B.Tech-AI_%26_Data_Science-050505?style=for-the-badge&labelColor=050505&color=ff003c)
+![Open to opportunities](https://img.shields.io/badge/Status-Open_to_opportunities-050505?style=for-the-badge&labelColor=050505&color=ff003c)
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Robotics+%26+Autonomous+Systems+(ROS2+%7C+CARLA);Computer+Vision+%7C+IoT+%7C+Embedded+Systems;Full+Stack+%7C+Open+Source+%7C+Hackathons" alt="Typing SVG" />
+I design and build intelligent systems that connect Artificial Intelligence, Embedded Hardware, IoT Devices, Cloud Infrastructure, and Modern Web Applications to solve real-world challenges.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sanjeevikumar-m">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sanjeevikumar2225@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sanjeevikumar-m.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sanjeevikumar-M">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sanjeevikumar-M&label=Profile+Views&color=00ffff&style=for-the-badge" />
-</p>
-
----
-
-```python
-class Sanjeevikumar:
-
-    name       = "Sanjeevikumar M"
-    role       = "AI & Data Science Engineering Student"
-    university = "B.Tech AI & DS — 3rd Year"
-    location   = "Coimbatore, Tamil Nadu, India 🇮🇳"
-    email      = "sanjeevikumar2225@gmail.com"
-    portfolio  = "https://sanjeevikumar-m.github.io/Portfolio/"
-
-    interests  = [
-        "Artificial Intelligence & Machine Learning",
-        "Robotics & Autonomous Systems (ROS2, CARLA)",
-        "Computer Vision (YOLO, OpenCV)",
-        "IoT & Embedded Systems",
-        "Full Stack Development",
-        "Competitive Programming"
-    ]
-
-    currently  = "Building intelligent systems that bridge hardware & software"
-
-    open_to    = ["Internships", "Collaborations", "Open Source", "Hackathons"]
-```
-
----
-
-## 🚀 About Me
-
-I'm a 3rd-year B.Tech AI & Data Science student from Coimbatore, passionate about building systems that sit at the intersection of intelligence and hardware. I work on autonomous vehicles using **ROS2 and CARLA**, design IoT pipelines with **ESP32 and Raspberry Pi**, and apply **computer vision** with YOLO to real-world problems. I'm an active competitive programmer and love contributing to open-source and hackathons.
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🚗 **Autonomous Vehicle Simulation** | Multi-vehicle sim with V2V communication & obstacle avoidance | ROS2, CARLA, Python |
-| 👁️ **Computer Vision Pipeline** | Real-time object detection for surveillance & smart environments | YOLO, OpenCV, Python |
-| 🌦️ **IoT Weather Monitor** | Environmental sensing with cloud integration & analytics | ESP32, DHT22, MQ-2 |
-| 🎓 **Student Management System** | Full CRUD academic records system with OOP design | Java |
-| 🌐 **Portfolio Website** | Responsive dark-themed portfolio deployed on GitHub Pages | HTML, CSS, JS |
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI / ML / Computer Vision
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🚗 Robotics & Autonomous Systems
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![CARLA](https://img.shields.io/badge/CARLA_Simulator-FF6B35?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### 🌐 Embedded & IoT
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🔭 What I'm Building Toward
-
-- 🤖 Mastering Deep Learning, CNNs & advanced Computer Vision (YOLO v9+)
-- 🚗 Pushing further into ROS2, CARLA & real-world autonomous navigation
-- 🌐 Building production-grade Full Stack applications
-- ☁️ Scaling IoT systems with Cloud & Edge computing
-- 🌍 Contributing meaningfully to open-source Robotics & AI projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeevikumar-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevikumar-M&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanjeevikumar-M&theme=tokyonight&hide_border=true" />
+<code>Student Engineer</code> → <code>AI & Data Science Learner</code> → <code>Hackathon Competitor</code> → <code>Systems Builder</code> → <code>AI Engineer</code>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+### 🧠 About
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sanjeevikumar-M/Sanjeevikumar-M/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sanjeevikumar-M/Sanjeevikumar-M/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Sanjeevikumar-M/Sanjeevikumar-M/output/github-contribution-grid-snake.svg" />
-</picture>
+I am an AI & Data Science Engineer passionate about creating intelligent solutions that bridge the gap between software and hardware.
 
----
+My work spans:
 
-## 🤝 Connect With Me
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Full Stack Development
+- IoT Systems
+- Embedded Engineering
+- Cloud Technologies
 
-<p align="center">
-  <a href="https://linkedin.com/in/sanjeevikumar-m">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sanjeevikumar2225@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sanjeevikumar-m.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sanjeevikumar-M">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+> Focus on innovation, scalability, and real-world impact.
 
 ---
 
+### ⚙️ Core Expertise
+
+| 🧠 **Artificial Intelligence** | 🤖 **Machine Learning** | 👁️ **Computer Vision** |
+|:--|:--|:--|
+| Build predictive models, intelligent agents, and AI-powered applications. | Data-driven systems that learn and adapt. | Object detection, image understanding, and visual intelligence. |
+
+| 💻 **Full Stack Development** | 📡 **IoT Systems** | 🔌 **Embedded Engineering** |
+|:--|:--|:--|
+| Scalable web platforms using React, FastAPI, and modern technologies. | Connected devices, sensors, and intelligent automation. | ESP32, Raspberry Pi, STM32, and hardware-software integration. |
+
+---
+
+### 🛰️ Featured Projects
+
+**Methane Shadow Hunter**
+An AI-powered environmental intelligence platform that detects methane super-emitters from satellite imagery, estimates emissions, and generates compliance reports.
+![FastAPI](https://img.shields.io/badge/FastAPI-ff003c?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-ff003c?style=flat-square&logo=react&logoColor=white) ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-ff003c?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff003c?style=flat-square) ![GIS](https://img.shields.io/badge/GIS-ff003c?style=flat-square)
+
+**Smart Waste Management System**
+IoT-enabled smart city solution for real-time waste monitoring, predictive collection scheduling, and route optimization.
+![ESP32](https://img.shields.io/badge/ESP32-ff003c?style=flat-square&logo=espressif&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-ff003c?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-ff003c?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-ff003c?style=flat-square&logo=mysql&logoColor=white) ![Analytics](https://img.shields.io/badge/Analytics-ff003c?style=flat-square)
+
+**AgroLink**
+AI-powered farmer-to-consumer marketplace improving agricultural supply chain efficiency.
+![AI](https://img.shields.io/badge/AI-ff003c?style=flat-square) ![Web Development](https://img.shields.io/badge/Web_Development-ff003c?style=flat-square) ![Database Systems](https://img.shields.io/badge/Database_Systems-ff003c?style=flat-square)
+
+**IoT Weather Monitoring Station**
+Real-time environmental monitoring platform using sensor networks and cloud dashboards.
+![ESP8266](https://img.shields.io/badge/ESP8266-ff003c?style=flat-square&logo=espressif&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-ff003c?style=flat-square) ![Cloud Integration](https://img.shields.io/badge/Cloud_Integration-ff003c?style=flat-square)
+
+---
+
+### 🏆 Achievements
+
+- 🏆 **TEXPERIA Hackathon** — 2nd Prize Winner
+- 🥈 **ZYPH Global Summit Hackathon** — Top 10 Finalist
+- 🚀 **Multiple AI & Full Stack Internships**
+- 💡 **Open Source Contributor**
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-ff003c?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ff003c?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ff003c?style=for-the-badge&logo=javascript&logoColor=white) ![C](https://img.shields.io/badge/C-ff003c?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-ff003c?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff003c?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ff003c?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-ff003c?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-ff003c?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-ff003c?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-ff003c?style=for-the-badge&logo=flask&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-ff003c?style=for-the-badge&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-ff003c?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-ff003c?style=for-the-badge&logo=css3&logoColor=white)
+
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-ff003c?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-ff003c?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-ff003c?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Embedded**
+![ESP32](https://img.shields.io/badge/ESP32-ff003c?style=for-the-badge&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-ff003c?style=for-the-badge&logo=espressif&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-ff003c?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-ff003c?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-ff003c?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-ff003c?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-ff003c?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-ff003c?style=for-the-badge&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-ff003c?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-ff003c?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjeevikumar-M&show_icons=true&bg_color=050505&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevikumar-M&layout=compact&bg_color=050505&title_color=ff003c&text_color=ffffff&border_color=ff003c&hide_border=false" width="38%" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Sanjeevikumar-M&background=050505&ring=ff003c&fire=ff003c&currStreakLabel=ff003c&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9a9aa3&border=ff003c" width="90%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🌌 Vision
+
+> To build intelligent technologies that make industries smarter, cities more sustainable, and everyday life more connected through the power of **Artificial Intelligence** and **Embedded Systems**.
+
+---
+
+### 📡 Let's Build Something Intelligent Together
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ff003c)](https://github.com/Sanjeevikumar-M)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=ff003c)](https://www.linkedin.com/in/sanjeevikumar-m/)
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=ff003c)](mailto:sanjeevikumar2225@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=ff003c)](https://Sanjeevikumar-M.github.io)
+
+</div>
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8a0a1f,100:050505&height=120&section=footer)
+
+<p align="center"><i>Building the future through AI, Engineering, and Innovation.</i></p>
+
 <p align="center">
-  <i>⚡ "The best way to predict the future is to build it." — Alan Kay</i>
+<img src="https://komarev.com/ghpvc/?username=Sanjeevikumar-M&color=ff003c&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
