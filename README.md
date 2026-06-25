@@ -135,7 +135,7 @@ Real-time environmental monitoring platform using sensor networks and cloud dash
 [![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ff003c)](https://github.com/Sanjeevikumar-M)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=ff003c)](https://www.linkedin.com/in/sanjeevikumar-m/)
 [![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=ff003c)](mailto:sanjeevikumar2225@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=ff003c)](https://Sanjeevikumar-M.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=ff003c)](https://sanjeevikumar-m.github.io/Portfolio/)
 
 </div>
 
